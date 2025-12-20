@@ -40,12 +40,6 @@ I help individuals, startups, and small teams **build reliable web applications*
   <img src="https://skillicons.dev/icons?i=web" height="48" alt="Web Scraping" />
 </p>
 
-### 🕷️ Web Scraping & Automation  
-
-- **Scrapy** — Python web crawling & scraping framework :contentReference[oaicite:1]{index=1}  
-- **BeautifulSoup** — Python HTML/XML parser for scraping :contentReference[oaicite:2]{index=2}  
-- **Playwright** — Browser automation & dynamic scraping engine  
-
 
 ### 🕷️ Web Scraping & Automation Frameworks  
 
