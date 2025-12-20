@@ -35,16 +35,16 @@ I help individuals, startups, and small teams **build reliable web applications*
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
-
-  <!-- Playwright -->
   <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" />
-
-  <!-- Scrapy -->
-  <img src="https://raw.githubusercontent.com/scrapy/scrapy/master/docs/_static/scrapy-icon.svg" height="48" alt="Scrapy" />
-
-  <!-- BeautifulSoup -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Beautiful_Soup_logo.svg" height="48" alt="BeautifulSoup" />
+  <!-- If you want a generic web/scraping icon fallback -->
+  <img src="https://skillicons.dev/icons?i=web" height="48" alt="Web Scraping" />
 </p>
+
+### 🕷️ Web Scraping & Automation  
+
+- **Scrapy** — Python web crawling & scraping framework :contentReference[oaicite:1]{index=1}  
+- **BeautifulSoup** — Python HTML/XML parser for scraping :contentReference[oaicite:2]{index=2}  
+- **Playwright** — Browser automation & dynamic scraping engine  
 
 
 ### 🕷️ Web Scraping & Automation Frameworks  
