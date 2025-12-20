@@ -40,14 +40,10 @@ I help individuals, startups, and small teams **build reliable web applications*
   <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" />
 
   <!-- Scrapy -->
-  <img src="https://raw.githubusercontent.com/scrapy/scrapy/master/artwork/scrapy-logo.svg"
-       height="48"
-       alt="Scrapy" />
+  <img src="https://raw.githubusercontent.com/scrapy/scrapy/master/docs/_static/scrapy-icon.svg" height="48" alt="Scrapy" />
 
   <!-- BeautifulSoup -->
-  <img src="https://raw.githubusercontent.com/psf/requests-html/master/docs/_static/bs4.png"
-       height="48"
-       alt="BeautifulSoup" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Beautiful_Soup_logo.svg" height="48" alt="BeautifulSoup" />
 </p>
 
 
