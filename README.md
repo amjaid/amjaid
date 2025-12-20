@@ -30,7 +30,8 @@ I’m passionate about building **intelligent, scalable, and user-focused softwa
 ### 🧰 Tools & Technologies  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,playwright,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" />
 </p>
 
 ---
