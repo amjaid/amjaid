@@ -38,6 +38,12 @@ I help individuals, startups, and small teams **build reliable web applications*
   <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" />
 </p>
 
+### 🕷️ Web Scraping & Automation Frameworks  
+
+- **Scrapy** – scalable crawling & data extraction  
+- **BeautifulSoup** – HTML parsing & data extraction  
+- **Playwright** – browser automation & dynamic site scraping  
+
 ---
 
 ## 💼 Services I Offer  
@@ -47,26 +53,26 @@ I help individuals, startups, and small teams **build reliable web applications*
   - REST APIs, backend logic, and database integration  
 
 - 🤖 **Web Scraping & Automation**  
-  - Automated data extraction (scrapers & crawlers)  
-  - Browser automation for repetitive workflows  
-  - Scheduled scripts and data pipelines  
+  - Automated crawlers & scrapers  
+  - Dynamic website scraping (JS-heavy sites)  
+  - Data cleaning, export (CSV / JSON / Database)  
 
 - ⚙️ **Custom Automation Tools**  
-  - Scripts to automate reports, forms, testing, and data processing  
-  - API integrations and workflow optimization  
+  - Workflow automation & scheduled scripts  
+  - API integrations and data pipelines  
 
 - 🧪 **Test Automation & QA Support**  
   - End-to-end browser testing  
-  - Reliable and maintainable test scripts  
+  - Maintainable automation scripts  
 
 ---
 
 ## 📌 What Clients & Teams Can Expect  
 
 - ✅ Clean, maintainable, and well-documented code  
-- ✅ Clear communication and realistic timelines  
+- ✅ Clear communication and reliable delivery  
 - ✅ Focus on performance, reliability, and scalability  
-- ✅ Problem-solving mindset with attention to detail  
+- ✅ Strong problem-solving mindset  
 
 ---
 
