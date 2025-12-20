@@ -31,12 +31,25 @@ I help individuals, startups, and small teams **build reliable web applications*
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,nodejs,php,html,css,mysql" />
 </p>
 
-### 🛠️ Tools & Technologies  
+### 🛠️ Tools & Frameworks  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
+
+  <!-- Playwright -->
   <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" />
+
+  <!-- Scrapy -->
+  <img src="https://raw.githubusercontent.com/scrapy/scrapy/master/artwork/scrapy-logo.svg"
+       height="48"
+       alt="Scrapy" />
+
+  <!-- BeautifulSoup -->
+  <img src="https://raw.githubusercontent.com/psf/requests-html/master/docs/_static/bs4.png"
+       height="48"
+       alt="BeautifulSoup" />
 </p>
+
 
 ### 🕷️ Web Scraping & Automation Frameworks  
 
