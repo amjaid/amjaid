@@ -13,8 +13,9 @@ I’m passionate about building **intelligent, scalable, and user-focused softwa
 
 - 🎓 **Computer Science (Software Engineering)** student at **Universiti Teknologi Malaysia (UTM)**  
 - 🤖 Strong interest in **AI-powered applications**, **web systems**, and **automation tools**  
+- 🌐 Hands-on experience in **web development**, **web scraping**, and **browser automation**  
 - 💬 Ask me about **Python, Java, C++, JavaScript, Node.js, PHP, HTML, CSS, SQL**  
-- 🧩 Experience with **software modeling, requirements engineering, and OOP design**  
+- 🧩 Experience with **software modeling, requirements engineering, OOP design**, and **test automation**  
 - 🌐 Portfolio: **[amjaid.com](https://amjaid.com)**  
 
 ---
