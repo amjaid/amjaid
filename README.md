@@ -1,34 +1,37 @@
 # 👋 Hi, I'm Abdullah Mohammad Jaid  
 
-🚀 **Software Developer | Web & AI Enthusiast | Computer Science Student @ UTM**
+💼 **Freelance Software Developer | Web Automation & Full-Stack Development**  
+🎓 Computer Science (Software Engineering) @ Universiti Teknologi Malaysia (UTM)
 
-Welcome to my GitHub!  
-I’m passionate about building **intelligent, scalable, and user-focused software solutions** — from full-stack web applications to AI-assisted tools. I enjoy transforming real-world problems into clean code and elegant user experiences.
+I help individuals, startups, and small teams **build reliable web applications**, **automate repetitive tasks**, and **extract valuable data from the web** using clean, maintainable, and scalable code.
 
-💼 **Currently open to part-time remote opportunities**
+🚀 **Available for part-time remote roles, freelance projects, and long-term collaborations**
 
 ---
 
 ## 🧠 About Me  
 
-- 🎓 **Computer Science (Software Engineering)** student at **Universiti Teknologi Malaysia (UTM)**  
-- 🤖 Strong interest in **AI-powered applications**, **web systems**, and **automation tools**  
-- 🌐 Hands-on experience in **web development**, **web scraping**, and **browser automation**  
-- 💬 Ask me about **Python, Java, C++, JavaScript, Node.js, PHP, HTML, CSS, SQL**  
-- 🧩 Experience with **software modeling, requirements engineering, OOP design**, and **test automation**  
-- 🌐 Portfolio: **[amjaid.com](https://amjaid.com)**  
+- 🎓 Computer Science (Software Engineering) student at **UTM** with strong hands-on development experience  
+- 💼 **Freelance-ready developer** delivering **production-quality web applications, automation scripts, and scraping solutions**  
+- 🤖 Specialized in **web scraping, browser automation, and workflow automation** to save time and reduce manual effort  
+- 🌐 Experienced in **full-stack web development** — from responsive UIs to backend APIs and databases  
+- 🧪 Strong foundation in **software engineering principles**, **OOP design**, **requirements engineering**, and **test automation**  
+- 💬 Comfortable working with **Python, JavaScript (Node.js), PHP, Java, C++, HTML, CSS, SQL**  
+- 🚀 Actively seeking **freelance work**, **part-time remote roles**, and **startup collaborations**  
+
+🌐 **Portfolio:** [https://amjaid.com](https://amjaid.com)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧰 Tech Stack  
 
-### 💻 Languages  
+### 💻 Languages & Runtime  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,nodejs,php,html,css,mysql" />
 </p>
 
-### 🧰 Tools & Technologies  
+### 🛠️ Tools & Technologies  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
@@ -37,18 +40,37 @@ I’m passionate about building **intelligent, scalable, and user-focused softwa
 
 ---
 
-## 📊 What I’m Interested In  
+## 💼 Services I Offer  
 
-- ✅ Full-Stack Web Development  
-- ✅ AI & Machine Learning Integration  
-- ✅ Backend Development (Node.js / PHP)  
-- ✅ Software Engineering Best Practices  
-- ✅ Test Automation & Quality Engineering  
-- ✅ Open Source Contributions  
+- 🌐 **Full-Stack Web Development**  
+  - Business websites, dashboards, admin panels  
+  - REST APIs, backend logic, and database integration  
+
+- 🤖 **Web Scraping & Automation**  
+  - Automated data extraction (scrapers & crawlers)  
+  - Browser automation for repetitive workflows  
+  - Scheduled scripts and data pipelines  
+
+- ⚙️ **Custom Automation Tools**  
+  - Scripts to automate reports, forms, testing, and data processing  
+  - API integrations and workflow optimization  
+
+- 🧪 **Test Automation & QA Support**  
+  - End-to-end browser testing  
+  - Reliable and maintainable test scripts  
 
 ---
 
-## 📫 Connect With Me  
+## 📌 What Clients & Teams Can Expect  
+
+- ✅ Clean, maintainable, and well-documented code  
+- ✅ Clear communication and realistic timelines  
+- ✅ Focus on performance, reliability, and scalability  
+- ✅ Problem-solving mindset with attention to detail  
+
+---
+
+## 📫 Let’s Work Together  
 
 🌐 **Portfolio:** [https://amjaid.com](https://amjaid.com)  
 💼 **LinkedIn:** [https://linkedin.com/in/amjaid](https://linkedin.com/in/amjaid)  
@@ -56,5 +78,5 @@ I’m passionate about building **intelligent, scalable, and user-focused softwa
 
 ---
 
-⭐ *If you like my work, consider giving my repositories a star!*  
-💼 *Open to part-time remote developer roles — let’s build something amazing together.*
+⭐ If you find my work useful, feel free to star my repositories  
+💼 **Open for freelance projects, part-time remote roles, and collaborations**
