@@ -34,10 +34,8 @@ I help individuals, startups, and small teams **build reliable web applications*
 ### 🛠️ Tools & Frameworks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma,react,vite,django" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" />
-  <!-- If you want a generic web/scraping icon fallback -->
-  <img src="https://skillicons.dev/icons?i=web" height="48" alt="Web Scraping" />
 </p>
 
 
@@ -46,6 +44,11 @@ I help individuals, startups, and small teams **build reliable web applications*
 - **Scrapy** – scalable crawling & data extraction  
 - **BeautifulSoup** – HTML parsing & data extraction  
 - **Playwright** – browser automation & dynamic site scraping  
+
+---
+
+📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
