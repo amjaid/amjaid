@@ -47,11 +47,6 @@ I help individuals, startups, and small teams **build reliable web applications*
 
 ---
 
-📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amjaid&layout=compact&theme=dark)](https://github.com/amjaid)
-
----
-
 ## 💼 Services I Offer  
 
 - 🌐 **Full-Stack Web Development**  
